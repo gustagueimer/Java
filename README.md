@@ -1,2 +1,2 @@
-# bpk-es-ads-poo-java2024
-Repositório da disciplina de Orientação a Objetos e UML nos cursos de ADS e Engenharia de Software do Biopark 
+# Repositório de Programação Orientada a Objetos
+Repositório da disciplina de Orientação a Objetos contendo as listas de exercícios concluídas
